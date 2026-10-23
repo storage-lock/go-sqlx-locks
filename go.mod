@@ -25,7 +25,7 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/lib/pq v1.10.9 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/storage-lock/go-events v0.0.4 // indirect
+	github.com/storage-lock/go-events v0.0.5 // indirect
 	github.com/storage-lock/go-mysql-storage v0.0.3 // indirect
 	github.com/storage-lock/go-postgresql-storage v0.0.3 // indirect
 	github.com/storage-lock/go-sql-based-storage v0.0.2 // indirect
